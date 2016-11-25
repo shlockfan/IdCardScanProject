@@ -21,3 +21,6 @@ public static String zoomBitMapFromPath(Context context, String path) {
     }
 ```
 改变此处的宽高和quality可以改变压缩图片的清晰度，上传的图片越清晰，识别率越高，但是如果图片太大，腾讯服务器则无法解析，可以根据自己的需求更改此处的配置。
+
+##Demo APK下载地址
+<img src="screenshoot/download.png"  width="166" height="166" /><img src="screenshoot/Screenshoot.png"  width="563" height="1001" />
